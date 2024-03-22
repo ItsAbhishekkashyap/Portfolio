@@ -477,8 +477,8 @@ body {
     .rightkaright img{
         align-items: center;
         justify-content: center;
-        width: 650px;
-        height: 650px;
+        width: 30vw;
+        height: 70vh;
         object-fit: cover;
         border-radius: 40%;
     }
